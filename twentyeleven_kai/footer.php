@@ -7,6 +7,7 @@
  * @package WordPress
  * @subpackage Twenty_Eleven
  * @since Twenty Eleven 1.0
+ * @Author Touka Tachibana (original by the WordPress team)
  */
 ?>
 

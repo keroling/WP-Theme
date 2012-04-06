@@ -2,14 +2,14 @@
 
 /*
 Theme Name:     twentyeleven_kai
-Author:         Touka Tachibana
-Description:    Twenty Elevenの子テーマです。
+Author:         Touka Tachibana (original by the WordPress team)
+Description:    Child Theme of Twenty Eleven
 Template:       twentyeleven
 */
 
 @import url('../twentyeleven/style.css');
 
-/* Feed Button */
+/* Feed Button サイドバーのフィードボタン*/
 
 .feed-button {
   padding: 10px 0;
@@ -41,7 +41,7 @@ img[class*="wp-image-"] {
 	padding: 6px;
 }
 
-/* アーカイブ・カテゴリー・ブログトップ*/
+/*ブログトップ*/
 h2.entry-title {
   font-size: 20px;
   padding-top: 30px;
@@ -50,4 +50,9 @@ h2.entry-title {
 
 .leftspace {
   padding-left: 20px; 
+}
+
+/*「コメントは受け付けていません」を非表示*/
+.nocomments {
+display: none;
 }
