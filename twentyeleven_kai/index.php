@@ -10,7 +10,6 @@
  *
  * @package WordPress
  * @subpackage Twenty_Eleven
- * @Author Touka Tachibana (original by the WordPress team)
  */
 
 get_header(); ?>
